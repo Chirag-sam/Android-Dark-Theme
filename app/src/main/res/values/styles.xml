@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="MyText">
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+
+</resources>
